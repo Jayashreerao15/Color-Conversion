@@ -1,5 +1,5 @@
 ## EX.NO: 03 <br>
-## DATE:
+## DATE: 12-04-2022
 ## <p align="center">COLOR CONVERSION</p>
 
 ## Aim:
